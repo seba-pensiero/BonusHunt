@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusHunt", "BonusHunt\BonusHunt.csproj", "{E84200FB-D8EB-4F97-BE11-90A2E9A8F119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{8CF53512-6AB7-43C0-809C-612F847BFA65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{5AC79504-2C7F-469C-9E13-66BF3D582538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84200FB-D8EB-4F97-BE11-90A2E9A8F119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84200FB-D8EB-4F97-BE11-90A2E9A8F119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84200FB-D8EB-4F97-BE11-90A2E9A8F119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84200FB-D8EB-4F97-BE11-90A2E9A8F119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF53512-6AB7-43C0-809C-612F847BFA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF53512-6AB7-43C0-809C-612F847BFA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF53512-6AB7-43C0-809C-612F847BFA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF53512-6AB7-43C0-809C-612F847BFA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC79504-2C7F-469C-9E13-66BF3D582538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC79504-2C7F-469C-9E13-66BF3D582538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC79504-2C7F-469C-9E13-66BF3D582538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC79504-2C7F-469C-9E13-66BF3D582538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DCEDB50-6A27-4975-8080-83DF769D0369}
+	EndGlobalSection
+EndGlobal
